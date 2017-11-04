@@ -20,7 +20,7 @@
 	<body>
 		<!-- BLOK HEADER -->
 		<div id="header">
-			<h2>Penentuan Produksi Berdasarkan Permintaan dan Persediaan Mingguan<br/>
+			<h2>Penentuan Produksi Es Krim Berdasarkan Permintaan dan Persediaan Mingguan<br/>
 			(Studi Kasus: PT. Hui Tong Guo Jii - Aice Tulungagung)
 			</h2>
 		</div>
