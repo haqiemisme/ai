@@ -10,7 +10,7 @@
 	clear: both;
 	background-color: #73D0FF;
 	padding: 1px 0px 1px 0px;
-	margin: 0px 0px 10px 0px;
+	margin: 0px 0px 20px 0px;
 	border-radius: 10px 10px 0 0; }
 	
 h2 {
@@ -48,9 +48,8 @@ legend {
 	display: block;
 	clear: both;
 	position: float;
-	/* z-index: -12; */
-	font: bold;
 	padding: 1px 0px 1px 0px;
-	margin: 10px 0px;
+	margin: 15px 0px 0px 0px;
 	background-color: #73D0FF;
-	border-radius: 0 0 10px 10px; }
+	border-radius: 0 0 10px 10px;
+	text-align: center; }
